@@ -1,0 +1,17 @@
+{
+  "name": "gbj_aip1640",
+  "keywords": "display, matrix, LED",
+  "description": "The library controls AiP1640 controller with WMA451 8x16 blue leds matrix module.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrkaleArduinoLib/gbj_aip1640.git"
+  },
+  "version": "1.0.0",
+  "frameworks": "arduino",
+  "platforms": [
+    "atmelavr",
+    "atmelsam",
+    "espressif8266",
+    "espressif32"
+  ]
+}
