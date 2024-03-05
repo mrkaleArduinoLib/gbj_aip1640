@@ -1,6 +1,6 @@
 /*
   NAME:
-  gbj_aip1640_leds.cpp
+  gbj_aip1640_leds
 
   DESCRIPTION:
   The sketch turns on all LEDs on the matrix subsequently.

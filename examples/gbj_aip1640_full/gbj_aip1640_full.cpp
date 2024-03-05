@@ -1,6 +1,6 @@
 /*
   NAME:
-  gbj_aip1640_full.cpp
+  gbj_aip1640_full
 
   DESCRIPTION:
   The sketch turns on all LEDs on the matrix and cycle all contrast levels.

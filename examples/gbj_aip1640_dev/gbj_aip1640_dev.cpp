@@ -1,6 +1,6 @@
 /*
   NAME:
-  gbj_aip1640_dev.cpp
+  gbj_aip1640_dev
 
   DESCRIPTION:
   Basic functionality of the controller library gbj_aip1640.
